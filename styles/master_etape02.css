@@ -1,0 +1,46 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color:#ffffff;
+	background-image: url(images/Fond_fleurs_1.jpg);
+	background-size:100%;
+	background-position:top;
+	background-repeat: no-repeat;
+	background-attachment:scroll;
+	text-align:center;
+	font-family:'ABeeZee', sans-serif;
+}
+
+h1{ padding: 5px;
+	font-family:'Chewy', cursive;
+	text-align:center;
+	font-size: 70px;
+	color: #42343e;
+}
+
+video {display:block;width:1000px;margin:0 auto 35px auto}
+
+a { padding: 100px;
+	font-family:'Chewy', cursive;
+	text-align:left;
+	font-size: 25px;
+	color: #42343e;
+	text-decoration: none;
+}
+a:hover { color: #AF0060;}
+
+section{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+p {
+	text-align: justify;
+	margin-top: 30px;
+	margin-left: 200px;
+	margin-right:200px;
+	font-size: 20px;
+	}
+	strong{ font-weight: bold;}

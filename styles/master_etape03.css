@@ -1,0 +1,40 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color:#F7F5E8;
+	background-image: url(images/Fond_pollen_.jpg);
+	background-size:100%;
+	background-position:top;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	text-align:center;
+	font-family:'ABeeZee', sans-serif;
+}
+
+h1{ padding: 5px;
+	font-family:'Chewy', cursive;
+	text-align:center;
+	font-size: 70px;
+	color: #352602;
+}
+
+video {display:block;width:1000px;margin:0 auto 35px auto}
+
+a { padding: 100px;
+	font-family:'Chewy', cursive;
+	text-align:left;
+	font-size: 25px;
+	color: #352602;
+	text-decoration: none;
+}
+a:hover {color:#ffc105; }
+
+p {
+	text-align: justify;
+	margin-top: 30px;
+	margin-left: 200px;
+	margin-right:200px;
+	font-size: 20px;
+	}
+	strong{ font-weight: bold;}

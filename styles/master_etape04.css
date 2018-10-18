@@ -1,0 +1,42 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color:#160d6d;
+	background-image: url(images/fond_night_.jpg);
+	background-size:cover;
+	background-position: top;
+	background-repeat: no-repeat;
+	background-attachment:fixed;
+	text-align:center;
+	font-family:'ABeeZee', sans-serif;
+	align-content:center;
+}
+
+h1{ margin-top: 100px;
+	font-family:'Chewy', cursive;
+	text-align:center;
+	font-size: 70px;
+	color: #ffffff;
+}
+
+video {display:block;width:1000px;margin:0 auto 35px auto}
+
+a { padding: 100px;
+	font-family:'Chewy', cursive;
+	text-align:left;
+	font-size: 25px;
+	color: #ffffff;
+	text-decoration: none;
+}
+a:hover {color:#f3e822; }
+
+p {
+	text-align: center;
+	margin-top: 30px;
+	margin-left: 200px;
+	margin-right:200px;
+	color: #f3e822;
+	font-size: 20px;
+	}
+	strong{ font-weight: bold;}
